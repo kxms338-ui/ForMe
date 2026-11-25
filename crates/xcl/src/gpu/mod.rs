@@ -21,3 +21,5 @@ pub mod uma;
 pub mod xbox;
 
 pub use rdna2_spec::ARCH as RDNA2_ARCH;
+
+pub mod vulkan;
